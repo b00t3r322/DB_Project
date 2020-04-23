@@ -1,0 +1,7 @@
+[0419/000607.817:ERROR:process_info.cc(359)] UncheckedAllocate
+[0419/000607.961:ERROR:process_info.cc(359)] UncheckedAllocate
+[0419/000608.220:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0419/000608.222:ERROR:exception_snapshot_win.cc(98)] thread ID 9008 not found in process
+[0419/000608.222:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
+[0419/135835.600:ERROR:process_info.cc(359)] UncheckedAllocate
+[0419/140259.810:ERROR:process_info.cc(359)] UncheckedAllocate
